@@ -261,10 +261,7 @@ Participated in Reimagithon with a focus on developing a practical technology so
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi05105&theme=github-compact&hide_border=true"
-    alt="Ayushi Jaiswal's GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph-93i471ecg-ayushi05105s-projects.vercel.app/graph?username=Ayushi05105&theme=github-compact&hide_border=true" alt="Ayushi Jaiswal's GitHub Activity Graph" />
 </p>
 
 
