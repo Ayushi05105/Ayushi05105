@@ -241,12 +241,11 @@ Participated in Reimagithon with a focus on developing a practical technology so
 
 # 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayushi05105&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi05105&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" />
-
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
 </p>
 
 
