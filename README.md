@@ -271,9 +271,11 @@ Participated in Reimagithon with a focus on developing a practical technology so
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Ayushi05105/Ayushi05105/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushi05105/Ayushi05105/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushi05105/Ayushi05105/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ayushi05105/Ayushi05105/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 
