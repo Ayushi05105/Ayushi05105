@@ -261,9 +261,11 @@ Participated in Reimagithon with a focus on developing a practical technology so
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
- <img src="https://github-readme-activity-graph-93i471ecg-ayushi05105s-projects.vercel.app/graph?username=Ayushi05105&theme=github-compact&hide_border=true&v=2" alt="GitHub Activity Graph" />
+  <img
+    src="https://raw.githubusercontent.com/Ayushi05105/Ayushi05105/output/activity-graph.svg"
+    alt="Ayushi Jaiswal's GitHub Activity Graph"
+  />
 </p>
-
 
 # 🐍 Contribution Snake
 
