@@ -37,20 +37,6 @@ I'm a **B.Tech CSE-DS student** passionate about building practical software and
 - 🚀 Interested in solving **real-world problems through technology**
 
 
-## 🎯 Current Focus
-
-**Full-Stack Development**  
-↓  
-**Backend Development**  
-↓  
-**Java + Spring Boot**  
-↓  
-**AI / ML with Python**  
-↓  
-**RAG-based Applications**  
-↓  
-**AI-powered Real-World Solutions**
-
 ### 🔭 Currently Building
 
 ### 🌾 AI Rural Health Assistant
@@ -258,14 +244,14 @@ Participated in Reimagithon with a focus on developing a practical technology so
 </p>
 
 
-<h2 align="center">📈 Contribution Activity</h2>
+<!-- <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Ayushi05105/Ayushi05105/output/activity-graph.svg"
     alt="Ayushi Jaiswal's GitHub Activity Graph"
   />
-</p>
+</p> -->
 
 # 🐍 Contribution Snake
 
